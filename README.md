@@ -37,3 +37,4 @@ TODOs
 * [ ] Unicode symbol fallback (coffee/ace/king)
 * [x] Improve CTA buttons
 * [ ] Testing harness
+* [ ] Setup CI
