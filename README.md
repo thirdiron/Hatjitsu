@@ -7,6 +7,7 @@ Features
 ========
 
 * Simple interface
+* 0, 1, 2, 4, 8, 16, 32 card numbers
 * No login/signup required
 * Votes are kept hidden until all have voted to prevent coercion
 * 'Observer feature' - watch the planning session without having to vote
